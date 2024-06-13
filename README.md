@@ -3,9 +3,9 @@
 This project is a prototype for an augmented reality system to learn and practice playing electric bass in front of a mirror.
 It is not intended for actual use and ought to be considered just proof-of-concept.
 
-This video shows how it works in practice:
+This video shows how it works in practice (make sure to enable audio):
 
-INSERT VIDEO
+https://github.com/J0ySF/BachelorThesisProject/assets/109023729/a23e3c11-9d4c-482f-a408-c5b96d1f279b
 
 This project supports Windows 10 and 11 only with a Varjo headset with Ultraleap hand tracking, no other interaction methods are supported.
 
